@@ -1,0 +1,9 @@
+D:\TrainingKits\Aksl\Aksl.Core\bin\x86\Debug\netstandard2.0\Aksl.Core.deps.json
+D:\TrainingKits\Aksl\Aksl.Core\bin\x86\Debug\netstandard2.0\Aksl.Core.dll
+D:\TrainingKits\Aksl\Aksl.Core\bin\x86\Debug\netstandard2.0\Aksl.Core.pdb
+D:\TrainingKits\Aksl\Aksl.Core\obj\x86\Debug\netstandard2.0\Aksl.Core.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.Core\obj\x86\Debug\netstandard2.0\Aksl.Core.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.Core\obj\x86\Debug\netstandard2.0\Aksl.Core.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.Core\obj\x86\Debug\netstandard2.0\Aksl.Core.dll
+D:\TrainingKits\Aksl\Aksl.Core\obj\x86\Debug\netstandard2.0\Aksl.Core.pdb
+D:\TrainingKits\Aksl\Aksl.Core\obj\x86\Debug\netstandard2.0\Aksl.Core.csprojAssemblyReference.cache
